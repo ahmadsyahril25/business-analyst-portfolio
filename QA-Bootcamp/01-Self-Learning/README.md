@@ -29,4 +29,4 @@ Mempelajari konsep dasar Quality Assurance sebagai bekal memahami proses penguji
 
 Dokumen lengkap dapat dilihat pada file:
 
-- Self-Learning-QA.pdf
+  - Self-Learning-QA.pdf [file:///C:/Users/mifta/Downloads/QA_Self_Learning.pdf]
